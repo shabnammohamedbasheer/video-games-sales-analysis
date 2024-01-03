@@ -1,0 +1,3 @@
+Video games are fascinating and is a rapidly growing field...by analysing the sales of the video games starting from the year 1980 - 2020 
+the data is very interesting by checking the sales in each genre and the publisher who started with new games....
+it helped to identify the target audience and create new games accordingly..
